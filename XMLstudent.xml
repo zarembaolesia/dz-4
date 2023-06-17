@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<root>
+  <name>John Doe</name>
+  <age>20</age>
+  <isEnrolled>true</isEnrolled>
+  <studentId>STU23425</studentId>
+  <grades>85</grades>
+  <grades>92</grades>
+  <grades>78</grades>
+  <grades>90</grades>
+  <address>
+    <street>123 Main St</street>
+    <city>Kyiv</city>
+    <zipcode>10001</zipcode>
+  </address>
+  <contact>
+    <email>john.doe@gmail.com</email>
+    <phone>+38 098 78 71 652</phone>
+  </contact>
+  <courses>
+    <name>Mathematics</name>
+    <code>MATH101</code>
+    <creditHours>3</creditHours>
+    <instructor>
+      <name>Professor Smith</name>
+      <email>smith@gmail.com</email>
+    </instructor>
+  </courses>
+  <courses>
+    <name>English Literature</name>
+    <code>ENGL202</code>
+    <creditHours>4</creditHours>
+    <instructor>
+      <name>Professor Johnson</name>
+      <email>johnson@gmail.com</email>
+    </instructor>
+  </courses>
+  <graduationDate>2023-05-30</graduationDate>
+  <gpa>3.75</gpa>
+</root>

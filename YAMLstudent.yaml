@@ -1,0 +1,32 @@
+---
+name: John Doe
+age: 20
+isEnrolled: true
+studentId: STU23425
+grades:
+- 85
+- 92
+- 78
+- 90
+address:
+  street: 123 Main St
+  city: Kyiv
+  zipcode: '10001'
+contact:
+  email: john.doe@gmail.com
+  phone: "+38 098 78 71 652"
+courses:
+- name: Mathematics
+  code: MATH101
+  creditHours: 3
+  instructor:
+    name: Professor Smith
+    email: smith@gmail.com
+- name: English Literature
+  code: ENGL202
+  creditHours: 4
+  instructor:
+    name: Professor Johnson
+    email: johnson@gmail.com
+graduationDate: '2023-05-30'
+gpa: 3.75
